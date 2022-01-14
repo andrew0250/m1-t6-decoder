@@ -1,4 +1,4 @@
-public class CaesarCipher {
+public class CaesarCipher { // и здесь тест коммит
 
     private static final int ALPHABET_SIZE = 32;
 
